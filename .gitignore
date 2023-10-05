@@ -1,0 +1,5 @@
+[Oo]bj/
+images/**
+sql_scripts/**
+
+**/.DS_Store
